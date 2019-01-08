@@ -1,3 +1,3 @@
-# OOP-javaScript
+# Prototype-based programming
 
-Experiementing with OOP JavaScript
+Experiementing Prototype-based programming with JavaScript
